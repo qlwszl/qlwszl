@@ -9,7 +9,7 @@ qlwszl/qlwszl is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-来着是客，请查看woke-se-zl下面。
+来者是客，请查看woke-se-zl下面。
 
 
 
